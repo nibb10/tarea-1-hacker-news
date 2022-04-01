@@ -1,0 +1,70 @@
+
+header {
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    
+}
+
+h1 {
+    color:rgb(15, 218, 28);
+    text-align: center;
+}
+
+label {
+    margin-right: 5px;
+}
+
+h2 {
+    color:rgb(15, 218, 28);
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    align-items: flex-start;
+}
+
+.selected {
+    color:rgb(218, 15, 15);
+}
+
+.submit {
+    text-align: right;
+}
+
+.input_message{
+    margin: 10px 10px 20px 20px;
+}
+
+.publication{
+    margin: 40px 40px 50px 50px;
+    border: 2px solid rgb(218, 15, 15);
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color:rgb(15, 218, 28);
+}
+
+body {
+    background-color: rgb(107, 107, 107);
+}
+
+footer{
+    padding: 10px;
+    background-color: black;
+    color:rgb(15, 218, 28);
+    text-align: center;
+}
+
+form{
+    padding: 15px;
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+}
+
+* {
+    font-family: sans-serif;
+}
